@@ -1,5 +1,8 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there
+# Hey
 
-I'm **Rishab Kumar R**, a **backend developer** passionate about **scalable systems**, **performance optimization**, and **clean architecture**. I enjoy **designing**, **building**, and **optimizing** backend services that handle real-world challenges.
+I'm Rishab Kumar R, a backend developer who cares about scalability, performance, and clean architecture. I build and improve backend systems that solve real-world problems.
 
-*Scalability isn't a feature—it's a mindset.*
+More work: [github.com/rishi-commits-bugs](https://github.com/rishi-commits-bugs)
+
+X: [x.com/rishi_r__](https://x.com/rishi_r__)\
+LinkedIn: [linkedin.com/in/rishab-kumar-2229b7246/](https://www.linkedin.com/in/rishab-kumar-2229b7246/)
