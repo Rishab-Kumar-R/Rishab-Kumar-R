@@ -4,5 +4,5 @@ I'm Rishab Kumar R, a backend developer who cares about scalability, performance
 
 More work: [github.com/rishi-commits-bugs](https://github.com/rishi-commits-bugs)
 
-X: [x.com/is_this_rishi](https://x.com/is_this_rishi)\
-LinkedIn: [linkedin.com/in/is-this-rishi/](https://www.linkedin.com/in/is-this-rishi/)
+X: [x.com/rishabkumar_](https://x.com/rishabkumar_)\
+LinkedIn: [linkedin.com/in/rishab-kumar-r/](https://www.linkedin.com/in/rishab-kumar-r/)
