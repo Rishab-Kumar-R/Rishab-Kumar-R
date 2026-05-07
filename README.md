@@ -9,4 +9,4 @@ LinkedIn: [linkedin.com/in/rishab-kumar-r/](https://www.linkedin.com/in/rishab-k
 
 ## GitHub Metrics
 
-![Metrics](https://raw.githubusercontent.com/Rishab-Kumar-R/Rishab-Kumar-R/main/metrics_renders/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Rishab-Kumar-R/Rishab-Kumar-R/main/github-metrics.svg)
