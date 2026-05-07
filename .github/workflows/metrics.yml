@@ -17,12 +17,13 @@ jobs:
           user: Rishab-Kumar-R
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 6
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
-          plugin_topics: yes
-          plugin_topics_mode: icons
+          extras_css: |
+            footer { display: none !important; }
